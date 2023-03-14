@@ -36,7 +36,7 @@ def windows(ovpn_file_content, vpn_hostname, vpn_ip, vpn_country):
     while(openvpn_path.strip()==''): 
         print("\n[Sorry, this path information is necessary, please input again.]")
         print('\n-----------------------------------\n')
-        openvpn_path = input("【 Please input your openVPN software file path. 】\n\n E.g. /etc/openvpn \n\n=> ")
+        openvpn_path = input("【 Please input your openVPN software file path. 】\n\n E.g. C:/ProgramFile/openvpn/config \n\n=> ")
         
     print('\n-----------------------------------\n')
     W_path = os.path.join(openvpn_path, 'config', 'vpngate_{}_{}_{}.ovpn'.format(vpn_hostname, vpn_country, vpn_ip))
