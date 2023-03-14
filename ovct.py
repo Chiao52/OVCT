@@ -12,7 +12,7 @@ inifile.read(inifile_name, 'UTF-8')
 if __name__ == "__main__":
     set_init.init_file_name()
 
-    All_Source_Path = inifile["File_Path"]["all_resources"]
-    Folder_Path = inifile["File_Path"]["resources"]
-    Updated_Source = initialize.get_current_list(All_Source_Path)
-    menu.choose_operation(Updated_Source, All_Source_Path, Folder_Path)
+    #All_Source_Path = inifile["File_Path"]["all_resources"]
+    #Folder_Path = inifile["File_Path"]["resources"]
+    Updated_Source = initialize.get_current_list(inifile["File_Path"]["all_resources"])
+    menu.choose_operation(Updated_Source, inifile["File_Path"]["all_resources"], inifile["File_Path"]["resources"])
