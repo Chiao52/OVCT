@@ -24,7 +24,7 @@ After collecting the public VPN list conforming to the OpenVPN protocol from the
    * Step1: Download [OpenVPN Connect for macOS](https://openvpn.net/downloads/openvpn-connect-v3-macos.dmg)
    * Step2: Double click to install `OpenVPN Connect` software
 
-### Python Package: `pandas` & `configparser`
+### Python Package: `pandas`
 * Ubuntu Linux
    ```
    $ sudo apt install python3-pandas
