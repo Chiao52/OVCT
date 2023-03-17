@@ -47,7 +47,7 @@ This repository contains:
   ```
   $ python3 initialize.py
   ```
-* Update VPN list & Filter VPN list & Connect VPN
+* Main Function (Update & Filter & Connect)
   ```
   $ python3 ovct.py
   ```
