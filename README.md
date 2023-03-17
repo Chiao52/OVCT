@@ -1,4 +1,27 @@
 # OVCT (Public VPN Connection Tool)
+***OVCT*** is a tool built with Python web crawling technique.
+
+After collecting the public VPN list conforming to the OpenVPN protocol from the vpngate website, it allows user to select specific VPN ISP hostname and drive the OpenVPN software to assist in connection.
+
+## Install
+
+```
+```
+
+## Usage
+
+```
+```
+
+## Contributing
+
+PRs accepted.
+
+## License
+
+MIT © Richard McRichface
+
+
 ## Background
 ***OVCT*** is a tool built with Python web crawling technique.
 
