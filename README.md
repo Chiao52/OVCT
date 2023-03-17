@@ -10,7 +10,7 @@ After collecting the public VPN list conforming to the OpenVPN protocol from the
 * Python package `pandas`
 
 ### Software: `OpenVPN`
-* Ubuntu Linux
+* Linux
    * Step1: Open `Terminal`
    * Step2: Input command: 
       ```
@@ -25,7 +25,7 @@ After collecting the public VPN list conforming to the OpenVPN protocol from the
    * Step2: Double click to install `OpenVPN Connect` software
 
 ### Python Package: `pandas`
-* Ubuntu Linux
+* Linux
    ```
    $ sudo apt install python3-pandas
    ```
