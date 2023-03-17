@@ -45,7 +45,7 @@ After collecting the public VPN list conforming to the OpenVPN protocol from the
   ```
 * Update & Filt & Connection
   ```
-  $ python ovct.py
+  $ python3 ovct.py
   ```
 
 ```
