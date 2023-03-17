@@ -10,9 +10,7 @@
   ```
 * Snake Case
   ```
-  user_name
-  or
-  User_Name
+  user_name or User_Name
   ```
 ### 各項命名規範
   |種類      						|命名規則  |範例 |注意事項|
