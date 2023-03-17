@@ -43,11 +43,11 @@ This repository contains:
    ```
 
 ## Usage
-* Initialize
+* Initialize VPN list
   ```
   $ python3 initialize.py
   ```
-* Update & Filter & Connection
+* Update VPN list & Filter VPN list & Connect VPN
   ```
   $ python3 ovct.py
   ```
