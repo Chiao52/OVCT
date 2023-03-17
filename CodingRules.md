@@ -16,9 +16,8 @@
   |種類      						|命名規則  |範例 |注意事項|
   |-------------------------------|---------|-----|-------|
   |Folder  			    	|Snake    |shared_functions |  |
-  |File  		  	   		|Pascal   | |  |
-  |Class  		  	   	|Pascal   | |  |
-  |Function 		 	   	|Pascal   | |  |
-  |Variable 		 	   	|Snake   | |  |
+  |File  		  	   		|Pascal   |VpnFilter |  |
+  |Class & Function  	|Snake    |Select_One       |  |
+  |Variable 		 	   	|Snake    |ovpn_hostname    |  |
 
 (注意事項可以寫他的組成方式 e.g. 使用 V. + N. 命名 啥的)
