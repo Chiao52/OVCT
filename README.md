@@ -3,8 +3,8 @@
 
 After collecting the public VPN list conforming to the OpenVPN protocol from the vpngate website, it allows user to select specific VPN ISP hostname and drive the OpenVPN software to assist in connection.
 
-This repository contains:<br />
-1. A connection tool of Public VPN<br />
+This repository contains:
+1. A connection tool of Public VPN
 2. A document of codeing rules
 
 ## Install
