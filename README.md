@@ -4,9 +4,39 @@
 After collecting the public VPN list conforming to the OpenVPN protocol from the vpngate website, it allows user to select specific VPN ISP hostname and drive the OpenVPN software to assist in connection.
 
 ## Install
+### Requirements
+* Python 3.x
+* Software `OpenVPN` 
+* Python package `pandas`
 
-```
-```
+### Software: `OpenVPN`
+* Ubuntu Linux
+   * Step1: Open `Terminal`
+   * Step2: Input command: 
+      ```
+      $ sudo apt install openvpn
+      ```
+* Windows
+   * Step1: Download [OpenVPN GUI](https://openvpn.net/community-downloads/)
+       * Note: Please follow your CPU (32bit / 64bit / ARM) choose a correct version.
+   * Step2: Double click to install `OpenVPN GUI` software
+* MacOS
+   * Step1: Download [OpenVPN Connect for macOS](https://openvpn.net/downloads/openvpn-connect-v3-macos.dmg)
+   * Step2: Double click to install `OpenVPN Connect` software
+
+### Python Package: `pandas`
+* Ubuntu Linux
+   ```
+   $ sudo apt install python3-pandas
+   ```
+* Windows
+   ``` 
+   $ pip install pandas
+   ```
+* MacOS
+   ```
+   $ pip3 install pandas
+   ```
 
 ## Usage
 
