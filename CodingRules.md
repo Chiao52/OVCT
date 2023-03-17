@@ -14,11 +14,8 @@
   ```
 |種類      						|命名規則  |範例 |注意事項|
 |-------------------------------|---------|-----|-------|
-|Folder  					|Snake Case   |shared_functions |  |
-
-### 各項命名規範
-* 資料夾命名：
-
-```<Bash>
-    shared_functions
-```
+|Folder  			    	|Snake    |shared_functions |  |
+|File  		  	   		|Pascal   | |可以打他是動詞+名詞啥的  |
+|Class  		  	   	|Pascal   | |  |
+|Function 		 	   	|Pascal   | |  |
+|Variable 		 	   	|Snake   | |  |
