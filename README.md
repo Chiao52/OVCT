@@ -39,6 +39,10 @@ After collecting the public VPN list conforming to the OpenVPN protocol from the
    ```
 
 ## Usage
+* Initialize
+* Update & Filt & Connection
+  ```
+  ```
 
 ```
 ```
