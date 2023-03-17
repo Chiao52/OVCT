@@ -48,9 +48,6 @@ After collecting the public VPN list conforming to the OpenVPN protocol from the
   $ python3 ovct.py
   ```
 
-```
-```
-
 ## Contributing
 [黃丰嘉 Feng-Chia Huang](https://github.com/bessyhuang)@Abyss-TeamA (Project Manager/Maintainer)<br />
 [許至齊 Zhi-Qi Xu](https://github.com/xkeBANg)@Abyss-TeamA (Author/Maintainer)<br />
