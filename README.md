@@ -47,7 +47,7 @@ This repository contains:
   ```
   $ python3 initialize.py
   ```
-* Main Function (Update & Filter & Connect)
+* Main Function ( Update & Filter & Connect )
   ```
   $ python3 ovct.py
   ```
