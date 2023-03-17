@@ -16,7 +16,7 @@
   |種類      						|命名規則  |範例 |注意事項|
   |-------------------------------|---------|-----|-------|
   |Folder  			    	|Snake    |shared_functions |  |
-  |File  		  	   		|Pascal   |VpnFilter |  |
+  |File  		  	   		|Pascal   |VpnFilter.py     |  |
   |Class & Function  	|Snake    |Select_One       |  |
   |Variable 		 	   	|Snake    |ovpn_hostname    |  |
 
