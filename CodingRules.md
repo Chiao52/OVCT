@@ -16,7 +16,8 @@
   |種類      						|命名規則  |範例 |注意事項|
   |-------------------------------|---------|-----|-------|
   |Folder  			    	|Snake    |shared_functions |  |
-  |File  		  	   		|Pascal   | |可以打他是動詞+名詞啥的  |
+  |File  		  	   		|Pascal   | |  |
   |Class  		  	   	|Pascal   | |  |
   |Function 		 	   	|Pascal   | |  |
   |Variable 		 	   	|Snake   | |  |
+(注意事項可以寫他的組成方式 e.g. 使用 V. + N. 命名 啥的)
