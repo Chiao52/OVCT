@@ -28,7 +28,6 @@ After collecting the public VPN list conforming to the OpenVPN protocol from the
 * Ubuntu Linux
    ```
    $ sudo apt install python3-pandas
-   $ sudo apt install configparser
    ```
 * Windows
    ``` 
