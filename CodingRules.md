@@ -17,7 +17,7 @@
   |-------------------------------|---------|-----|-------|
   |Folder  			    	|Snake    |shared_functions |  |
   |File  		  	   		|Pascal   |VpnFilter.py     |  |
-  |Class & Function  	|Snake    |Select_One       |  |
-  |Variable 		 	   	|Snake    |ovpn_hostname    |  |
+  |Class & Function  	|Snake    |Select_One       |首字母皆為大寫  |
+  |Variable 		 	   	|Snake    |ovpn_hostname    |首字母皆為小寫  |
 
 (注意事項可以寫他的組成方式 e.g. 使用 V. + N. 命名 啥的)
