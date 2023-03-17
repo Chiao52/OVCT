@@ -1,4 +1,16 @@
 # OVCT 專案命名規則
 
-* 說明：給Binodata工程師參考的C Sharp 開發規範
-* 適用語法：C#
+* 適用語法：Python
+
+## 各項命名規範
+### 使用之命名種類
+* Pascal Case
+  ```
+  UserName
+  ```
+* Snake Case
+  ```
+  user_name
+  ```
+
+###
