@@ -43,7 +43,7 @@ After collecting the public VPN list conforming to the OpenVPN protocol from the
   ```
   $ python3 initialize.py
   ```
-* Update & Filt & Connection
+* Update & Filter & Connection
   ```
   $ python3 ovct.py
   ```
